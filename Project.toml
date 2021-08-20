@@ -7,6 +7,13 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 KernelFunctions = "ec8451be-7e33-11e9-00cf-bbf324bd1392"
 GPLikelihoods = "6031954c-0455-49d7-b3b9-3e1c99afaf40"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
+GPLikelihoos = "6031954c-0455-49d7-b3b9-3e1c99afaf40"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
 [compat]
 julia = "1.6"
